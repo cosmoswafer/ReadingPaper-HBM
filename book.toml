@@ -1,0 +1,28 @@
+[book]
+authors = ["cosmoswafer"]
+language = "en"
+src = "src"
+title = "ReadingPaper-HBM"
+description = "A collection of research paper readings focused on High Bandwidth Memory (HBM)"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+mathjax-support = true
+copy-fonts = true
+no-section-label = false
+
+[output.html.search]
+enable = true
+limit-results = 20
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
