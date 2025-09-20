@@ -21,6 +21,11 @@ Papers are organized by topic and chronology. Each review follows a consistent s
 - Memory Management
 - Application Studies
 - Comparative Analysis
+- Recent Developments (2020-2024)
+
+## Recent Additions
+
+The collection now includes a comprehensive review of recent HBM developments covering advances in HBM3 technology, thermal management, AI/ML optimizations, reliability analysis, and heterogeneous computing integration. This section reviews 5+ recent academic papers from top-tier conferences including ISCA, MICRO, ASPLOS, and HPCA.
 
 ---
 

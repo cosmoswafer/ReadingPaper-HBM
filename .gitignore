@@ -1,6 +1,9 @@
 # mdBook build output
 book/
 
+# mdBook executable (downloaded)
+mdbook
+
 # Rust/Cargo
 target/
 Cargo.lock
